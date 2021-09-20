@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Personajes1.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Personajes10000" x="0" y="0" width="2560" height="1312" frameX="0" frameY="-64" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="Personajes10001" x="2560" y="0" width="2560" height="1328" frameX="0" frameY="-53" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="Personajes10002" x="5120" y="0" width="2560" height="1334" frameX="0" frameY="-48" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="Personajes10003" x="0" y="1334" width="2560" height="1344" frameX="0" frameY="-39" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="Personajes10004" x="2560" y="1334" width="2560" height="1353" frameX="0" frameY="-32" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="Personajes10005" x="5120" y="1334" width="2560" height="1400"/>
+	<SubTexture name="Personajes10006" x="5120" y="1334" width="2560" height="1400"/>
+	<SubTexture name="Personajes10007" x="5120" y="1334" width="2560" height="1400"/>
+	<SubTexture name="Personajes10008" x="5120" y="1334" width="2560" height="1400"/>
+	<SubTexture name="Personajes10009" x="5120" y="1334" width="2560" height="1400"/>
+	<SubTexture name="Personajes10010" x="5120" y="1334" width="2560" height="1400"/>
+	<SubTexture name="Personajes10011" x="5120" y="1334" width="2560" height="1400"/>
+	<SubTexture name="Personajes10012" x="0" y="0" width="2560" height="1312" frameX="0" frameY="-64" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="Personajes10013" x="2560" y="0" width="2560" height="1328" frameX="0" frameY="-53" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="Personajes10014" x="5120" y="0" width="2560" height="1334" frameX="0" frameY="-48" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="Personajes10015" x="0" y="1334" width="2560" height="1344" frameX="0" frameY="-39" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="Personajes10016" x="2560" y="1334" width="2560" height="1353" frameX="0" frameY="-32" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="Personajes10017" x="5120" y="1334" width="2560" height="1400"/>
+	<SubTexture name="Personajes10018" x="5120" y="1334" width="2560" height="1400"/>
+	<SubTexture name="Personajes10019" x="5120" y="1334" width="2560" height="1400"/>
+	<SubTexture name="Personajes10020" x="5120" y="1334" width="2560" height="1400"/>
+	<SubTexture name="Personajes10021" x="5120" y="1334" width="2560" height="1400"/>
+	<SubTexture name="Personajes10022" x="5120" y="1334" width="2560" height="1400"/>
+	<SubTexture name="Personajes10023" x="5120" y="1334" width="2560" height="1400"/>
+</TextureAtlas>

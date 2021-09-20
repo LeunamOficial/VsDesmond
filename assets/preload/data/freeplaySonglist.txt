@@ -1,0 +1,9 @@
+Tutorial:gf:1
+Techno Party:Desmond:7
+Confrontation:Desmond:7
+Stubbornness:Desmond:7
+Conceit:Desmond:7
+Spectacle:Desmond:7
+Admiration:Desmond:7
+Daddy Battle:Desmond:7
+Last Breath:Desmond:7
